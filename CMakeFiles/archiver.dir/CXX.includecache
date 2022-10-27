@@ -1,0 +1,114 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/median/OIMP/cpp-pilot-hse/tasks/archiver/BitIO.cpp
+BitIO.h
+/home/median/OIMP/cpp-pilot-hse/tasks/archiver/BitIO.h
+
+/home/median/OIMP/cpp-pilot-hse/tasks/archiver/BitIO.h
+huffman consts and usings.h
+/home/median/OIMP/cpp-pilot-hse/tasks/archiver/huffman consts and usings.h
+bitset
+-
+fstream
+-
+iostream
+-
+string
+-
+vector
+-
+
+/home/median/OIMP/cpp-pilot-hse/tasks/archiver/Decoder.cpp
+Decoder.h
+/home/median/OIMP/cpp-pilot-hse/tasks/archiver/Decoder.h
+
+/home/median/OIMP/cpp-pilot-hse/tasks/archiver/Decoder.h
+BitIO.h
+/home/median/OIMP/cpp-pilot-hse/tasks/archiver/BitIO.h
+huffman consts and usings.h
+/home/median/OIMP/cpp-pilot-hse/tasks/archiver/huffman consts and usings.h
+HuffmanTree.h
+/home/median/OIMP/cpp-pilot-hse/tasks/archiver/HuffmanTree.h
+string
+-
+fstream
+-
+
+/home/median/OIMP/cpp-pilot-hse/tasks/archiver/Encoder.cpp
+Encoder.h
+/home/median/OIMP/cpp-pilot-hse/tasks/archiver/Encoder.h
+
+/home/median/OIMP/cpp-pilot-hse/tasks/archiver/Encoder.h
+BitIO.h
+/home/median/OIMP/cpp-pilot-hse/tasks/archiver/BitIO.h
+huffman consts and usings.h
+/home/median/OIMP/cpp-pilot-hse/tasks/archiver/huffman consts and usings.h
+PriorityQueue.h
+/home/median/OIMP/cpp-pilot-hse/tasks/archiver/PriorityQueue.h
+HuffmanTree.h
+/home/median/OIMP/cpp-pilot-hse/tasks/archiver/HuffmanTree.h
+algorithm
+-
+unordered_map
+-
+filesystem
+-
+vector
+-
+string
+-
+tuple
+-
+unordered_map
+-
+
+/home/median/OIMP/cpp-pilot-hse/tasks/archiver/HuffmanTree.cpp
+HuffmanTree.h
+/home/median/OIMP/cpp-pilot-hse/tasks/archiver/HuffmanTree.h
+
+/home/median/OIMP/cpp-pilot-hse/tasks/archiver/HuffmanTree.h
+huffman consts and usings.h
+/home/median/OIMP/cpp-pilot-hse/tasks/archiver/huffman consts and usings.h
+BitIO.h
+/home/median/OIMP/cpp-pilot-hse/tasks/archiver/BitIO.h
+iostream
+-
+vector
+-
+
+/home/median/OIMP/cpp-pilot-hse/tasks/archiver/PriorityQueue.cpp
+PriorityQueue.h
+/home/median/OIMP/cpp-pilot-hse/tasks/archiver/PriorityQueue.h
+
+/home/median/OIMP/cpp-pilot-hse/tasks/archiver/PriorityQueue.h
+HuffmanTree.h
+/home/median/OIMP/cpp-pilot-hse/tasks/archiver/HuffmanTree.h
+vector
+-
+
+/home/median/OIMP/cpp-pilot-hse/tasks/archiver/huffman consts and usings.h
+bitset
+-
+vector
+-
+
+/home/median/OIMP/cpp-pilot-hse/tasks/archiver/main.cpp
+BitIO.h
+/home/median/OIMP/cpp-pilot-hse/tasks/archiver/BitIO.h
+Encoder.h
+/home/median/OIMP/cpp-pilot-hse/tasks/archiver/Encoder.h
+Decoder.h
+/home/median/OIMP/cpp-pilot-hse/tasks/archiver/Decoder.h
+iostream
+-
+vector
+-
+string
+-
+

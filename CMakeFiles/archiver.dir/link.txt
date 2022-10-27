@@ -1,0 +1,1 @@
+/usr/bin/c++   -Werror -Wall -Wextra -std=c++17 -g  -rdynamic CMakeFiles/archiver.dir/main.cpp.o CMakeFiles/archiver.dir/BitIO.cpp.o CMakeFiles/archiver.dir/Decoder.cpp.o CMakeFiles/archiver.dir/Encoder.cpp.o CMakeFiles/archiver.dir/HuffmanTree.cpp.o CMakeFiles/archiver.dir/PriorityQueue.cpp.o  -o archiver 

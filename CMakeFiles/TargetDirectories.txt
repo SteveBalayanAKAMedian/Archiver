@@ -1,0 +1,3 @@
+/home/median/OIMP/cpp-pilot-hse/tasks/archiver/CMakeFiles/rebuild_cache.dir
+/home/median/OIMP/cpp-pilot-hse/tasks/archiver/CMakeFiles/edit_cache.dir
+/home/median/OIMP/cpp-pilot-hse/tasks/archiver/CMakeFiles/archiver.dir

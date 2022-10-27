@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="archiver"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/median/OIMP/cpp-pilot-hse/tasks/archiver"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/median/OIMP/cpp-pilot-hse/tasks/archiver/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/median/OIMP/cpp-pilot-hse/tasks/archiver/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/median/OIMP/cpp-pilot-hse/tasks/archiver/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/median/OIMP/cpp-pilot-hse/tasks/archiver/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/median/OIMP/cpp-pilot-hse/tasks/archiver"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/median/OIMP/cpp-pilot-hse/tasks/archiver/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/median/OIMP/cpp-pilot-hse/tasks/archiver/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/median/OIMP/cpp-pilot-hse/tasks/archiver/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/median/OIMP/cpp-pilot-hse/tasks/archiver/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/median/OIMP/cpp-pilot-hse/tasks/archiver"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/median/OIMP/cpp-pilot-hse/tasks/archiver/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/median/OIMP/cpp-pilot-hse/tasks/archiver/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/median/OIMP/cpp-pilot-hse/tasks/archiver/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/median/OIMP/cpp-pilot-hse/tasks/archiver/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="archiver">
+				<Option output="/home/median/OIMP/cpp-pilot-hse/tasks/archiver/archiver" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/median/OIMP/cpp-pilot-hse/tasks/archiver"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/median/OIMP/cpp-pilot-hse/tasks/archiver/Makefile&quot;  VERBOSE=1 archiver"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/median/OIMP/cpp-pilot-hse/tasks/archiver/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/median/OIMP/cpp-pilot-hse/tasks/archiver/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/median/OIMP/cpp-pilot-hse/tasks/archiver/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="archiver/fast">
+				<Option output="/home/median/OIMP/cpp-pilot-hse/tasks/archiver/archiver" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/median/OIMP/cpp-pilot-hse/tasks/archiver"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/median/OIMP/cpp-pilot-hse/tasks/archiver/Makefile&quot;  VERBOSE=1 archiver/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/median/OIMP/cpp-pilot-hse/tasks/archiver/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/median/OIMP/cpp-pilot-hse/tasks/archiver/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/median/OIMP/cpp-pilot-hse/tasks/archiver/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/median/OIMP/cpp-pilot-hse/tasks/archiver/BitIO.cpp">
+			<Option target="archiver"/>
+		</Unit>
+		<Unit filename="/home/median/OIMP/cpp-pilot-hse/tasks/archiver/BitIO.h">
+			<Option target="archiver"/>
+		</Unit>
+		<Unit filename="/home/median/OIMP/cpp-pilot-hse/tasks/archiver/Decoder.cpp">
+			<Option target="archiver"/>
+		</Unit>
+		<Unit filename="/home/median/OIMP/cpp-pilot-hse/tasks/archiver/Decoder.h">
+			<Option target="archiver"/>
+		</Unit>
+		<Unit filename="/home/median/OIMP/cpp-pilot-hse/tasks/archiver/Encoder.cpp">
+			<Option target="archiver"/>
+		</Unit>
+		<Unit filename="/home/median/OIMP/cpp-pilot-hse/tasks/archiver/Encoder.h">
+			<Option target="archiver"/>
+		</Unit>
+		<Unit filename="/home/median/OIMP/cpp-pilot-hse/tasks/archiver/HuffmanTree.cpp">
+			<Option target="archiver"/>
+		</Unit>
+		<Unit filename="/home/median/OIMP/cpp-pilot-hse/tasks/archiver/HuffmanTree.h">
+			<Option target="archiver"/>
+		</Unit>
+		<Unit filename="/home/median/OIMP/cpp-pilot-hse/tasks/archiver/PriorityQueue.cpp">
+			<Option target="archiver"/>
+		</Unit>
+		<Unit filename="/home/median/OIMP/cpp-pilot-hse/tasks/archiver/PriorityQueue.h">
+			<Option target="archiver"/>
+		</Unit>
+		<Unit filename="/home/median/OIMP/cpp-pilot-hse/tasks/archiver/huffman consts and usings.h">
+			<Option target="archiver"/>
+		</Unit>
+		<Unit filename="/home/median/OIMP/cpp-pilot-hse/tasks/archiver/main.cpp">
+			<Option target="archiver"/>
+		</Unit>
+		<Unit filename="/home/median/OIMP/cpp-pilot-hse/tasks/archiver/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
